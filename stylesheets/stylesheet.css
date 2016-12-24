@@ -11,9 +11,12 @@ body {
 
 li {
 margin-bottom: 30px;
+<<<<<<< HEAD
 background-color: #002d72;
 box-shadow: 10px 10px 5px #888888;
 padding: 10px 10px 10px;
+=======
+>>>>>>> c80d32c6cd66f7a66f468f4302da9bb47c94cfd7
 
 }
 a {
@@ -22,6 +25,8 @@ a {
   a:hover {
     color: yellow;
     text-decoration: none; }
+
+
 
 
 
