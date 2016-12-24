@@ -7,20 +7,21 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #5C3317; 
  }
 
 li {
 margin-bottom: 30px;
-background-color: #fff;
+background-color: #002d72;
+box-shadow: 10px 10px 5px #888888;
 padding: 10px 10px 10px;
 
 }
 a {
-  color: #1e6bb8;
+  color: yellow;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    color: yellow;
+    text-decoration: none; }
 
 
 
